@@ -46,8 +46,6 @@ The application is built for 2 types of users :
 <img  width="60%" src="./Adventureland-Village/Images/activity.PNG"/>
  
 
-
-<h2>API End Point <a href="http://localhost:8082/swagger-ui/index.html#/">http://localhost:8082/swagger-ui/index.html#/</a></h2>
 <h2>Tech Stack</h2>
 <ul>
   <li>Java</li>
@@ -61,12 +59,6 @@ The application is built for 2 types of users :
 </ul>
 
 
- Contributors:-
- 
- - [@Neha Jaiswal](https://github.com/neha-hue)
- - [@Tahir Manzoor](https://github.com/TahiR-ManzooR-110)
- - [@Saurabh Kumar](https://github.com/rajsaurabh78)
- - [@Ashish Tripathy](https://github.com/malonicester)
- - [@Vishal Girhepunje](https://github.com/vishal-girhepunje)
+
     
    
